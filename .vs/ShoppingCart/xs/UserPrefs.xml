@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{14856906-C468-43A2-A83D-DE4B58CD2219}|Authenticate">
+  <MonoDevelop.Ide.ItemProperties.ShoppingCart PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CartController.cs">
+    <Files>
+      <File FileName="Controllers/AccoutController.cs" />
+      <File FileName="Controllers/CartController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingCart" expanded="True">
+            <Node name="ShoppingCart" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CartController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
